@@ -1,4 +1,4 @@
-import basic = namespace basic;
+
 
 //% color=300 weight=100 icon="\uf1ec" block="NL's Blocks"
 namespace NL {
