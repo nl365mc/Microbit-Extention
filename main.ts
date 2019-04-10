@@ -1,4 +1,4 @@
-//% color=190 weight=100 icon="\uf1ec" block="NL's Block"
+//% color=300 weight=100 icon="\uf1ec" block="NL's Blocks"
 namespace basic {
 
 
