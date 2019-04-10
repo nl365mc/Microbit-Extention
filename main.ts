@@ -1,5 +1,5 @@
 //% color=300 weight=100 icon="\uf1ec" block="NL's Blocks"
-namespace basic {
+namespace nl {
 
     //% blockId=yeet
     //% block="show|yeet %v"
