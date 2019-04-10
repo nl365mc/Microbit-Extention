@@ -1,6 +1,6 @@
 
 
-//% color=300 weight=100 icon="\1F58F" block="NL's Blocks"
+//% color=300 weight=100 icon="\uf2a3" block="NL's Blocks"
 namespace NL {
 
     //% blockId=yeet
